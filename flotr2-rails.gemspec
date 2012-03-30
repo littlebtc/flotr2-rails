@@ -4,8 +4,8 @@ require File.expand_path('../lib/flotr2-rails/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Hsiao-Ting Yu"]
   gem.email         = ["sst.dreams@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{flotr2 for Rails}
+  gem.summary       = %q{flotr2 JavaScript graph library, packaged for used in Rails with assets pipeline}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
